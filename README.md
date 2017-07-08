@@ -1,3 +1,4 @@
+# FableMultiProjectProblem
 # Fable Simple Template
 
 This template can be used to generate a simple web app with [Fable](http://fable.io/).
@@ -58,4 +59,3 @@ Any modification you do to the F# code will be reflected in the web page after s
 ### F# source files
 
 The template only contains two F# source files: the project (.fsproj) and a source file (.fs) in `src` folder. Note Fable is a local dotnet CLI tool that is downloaded by the project file.
-# FableMultiProjectProblem
